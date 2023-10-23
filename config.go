@@ -10,7 +10,7 @@ import (
 	"github.com/Masterminds/sprig"
 	"github.com/prometheus/common/log"
 
-	"gopkg.in/ldap.v2"
+	"github.com/go-ldap/ldap/v3"
 	"gopkg.in/yaml.v2"
 )
 

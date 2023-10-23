@@ -9,7 +9,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
-	"gopkg.in/ldap.v2"
+	"github.com/go-ldap/ldap/v3"
 	"gopkg.in/yaml.v2"
 )
 
